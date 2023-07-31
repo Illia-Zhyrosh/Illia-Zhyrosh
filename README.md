@@ -1,10 +1,16 @@
 ### Hi and welcome to my GitHub profile page!
 
-Example of my projects:
+<h3>Example of my projects:</h3>
+<ul>
+  <li > Simple-Organizer App: https://illia-zhyrosh.github.io/Simple-Organizer/  [Hosted] </li>
+<h3> Used tools: </h3>
+ <li> React.js  </li> 
+  <li> CSS </li>
+  <li> HTML </li>
+ </ul>
+</ul>
 
-Used tools: [React.js] [CSS] [HTML]
 
-Simple-Organizer App: https://illia-zhyrosh.github.io/Simple-Organizer/ 
 <!--
 **Illia-Zhyrosh/Illia-Zhyrosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
