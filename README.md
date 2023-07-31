@@ -3,6 +3,8 @@
 <h3>Example of my projects:</h3>
 <ul>
   <li > <h3> Simple-Organizer App: https://illia-zhyrosh.github.io/Simple-Organizer/  [Hosted]</h3> </li>
+  <li > <h3> https://github.com/Illia-Zhyrosh/Simple-Organizer [Source Code]</h3> </li>
+  
 <h3> Used tools: </h3>
  <li> React.js  </li> 
   <li> CSS </li>
