@@ -18,7 +18,7 @@
   <li> CSS </li>
   <li> HTML </li>
 
-<li> <h3>  InfinityAML  [Source Code] </h3> </li>
+<li> <h3>  InfinityAML  https://github.com/Illia-Zhyrosh/InfinityAML [Source Code] </h3> </li>
 
   <h3> Used tools: </h3> 
   <li> ASP.NET CORE 6 </li>
