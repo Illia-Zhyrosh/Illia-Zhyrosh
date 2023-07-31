@@ -2,15 +2,22 @@
 
 <h3>Example of my projects:</h3>
 <ul>
-  <li > Simple-Organizer App: https://illia-zhyrosh.github.io/Simple-Organizer/  [Hosted] </li>
+  <li > <h3> Simple-Organizer App: https://illia-zhyrosh.github.io/Simple-Organizer/  [Hosted]</h3> </li>
 <h3> Used tools: </h3>
  <li> React.js  </li> 
   <li> CSS </li>
   <li> HTML </li>
- </ul>
+ 
+
+<li> <h3> Contact list app </h3> </li>
+
+  <h3> Used tools: </h3>
+  <li> React.js  [frontend]</li> 
+  <li> ASP.NET CORE 6 MVC [backend]</li>
+  <li> SQLite database </li>
+  <li> CSS </li>
+  <li> HTML </li>
 </ul>
-
-
 <!--
 **Illia-Zhyrosh/Illia-Zhyrosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
